@@ -5,6 +5,6 @@
 > main 폴더 내의 페이지는 로그인을 하지 않은(ig session 값이 없을) 경우 login.jsp 호출
 
 버전
-> jdk : 1.8
-> springframework-version : 5.2.3RELEASE
-> maven-comiler-plugin : 3.5.1
+- jdk : 1.8
+- springframework-version : 5.2.3RELEASE
+- maven-comiler-plugin : 3.5.1
